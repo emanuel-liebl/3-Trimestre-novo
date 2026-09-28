@@ -17,5 +17,6 @@ text-align: center;
 .Cartão__Conteúdo h3{
     color: var(--cor-texto);
     border: 1px solid var(--cor-texto-preto);
+    text-align: left;
 
 }
