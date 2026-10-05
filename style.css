@@ -25,22 +25,22 @@ text-align: center;
     font-size: 1vw;
 }
 
-.Cartão__Conteúdo p{
+.Cartao__Conteudo p{
     margin-top: 1rem;
     padding: 2rem;
     font-size: 1vw;
 }
 
-.Cartão__Conteúdo__Pergunta p{
+.Cartao__Conteudo__Pergunta p{
 color: var(--cor-texto);
 font-weight: 500;
 }
 
-.Cartão__Conteúdo__Resposta p{
+.Cartao__Conteudo__Resposta p{
     color: var(--verso-cartao);
     font-weight: 700;
 }
 
-.cartao.active .Cartão__Conteúdo{
+.cartao.active .Cartao__Conteudo{
     transform: rotate(180deg);
 }
