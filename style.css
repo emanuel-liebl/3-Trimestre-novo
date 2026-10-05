@@ -37,6 +37,6 @@ font-weight: 500;
 }
 
 .Cartão__Conteúdo__Resposta p{
-    color: var(--cor-texto);
+    color: var(--verso-cartao);
     font-weight: 700;
 }
