@@ -1,3 +1,3 @@
-function criarCartao('Português',  'O que é um substantivo?', 'É a classe de palavras que dá nome aos seres, objetos, lugares, sentimentos e ideias (ex.: casa, Pedro, felicidade).') {
+function criarCartao('Categoria', 'Pergunta', 'Resposta') {
     let container=document.getElementById('container')
 }
